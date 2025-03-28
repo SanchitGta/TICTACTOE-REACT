@@ -1,0 +1,1 @@
+Component that represents the 3x3 grid of the game.
