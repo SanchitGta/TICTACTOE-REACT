@@ -1,0 +1,1 @@
+Component that displays the current status of the game.
