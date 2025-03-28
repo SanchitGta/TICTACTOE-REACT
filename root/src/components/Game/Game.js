@@ -1,0 +1,1 @@
+Main component that manages the game logic.
