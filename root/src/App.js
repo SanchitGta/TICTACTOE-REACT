@@ -1,0 +1,1 @@
+Main application component where everything is assembled.
