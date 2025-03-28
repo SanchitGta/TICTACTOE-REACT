@@ -1,0 +1,1 @@
+Functions for win detection, draw detection, and game logic.
