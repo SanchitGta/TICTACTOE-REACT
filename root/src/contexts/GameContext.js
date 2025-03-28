@@ -1,0 +1,1 @@
+Context for managing game-related state across components.
