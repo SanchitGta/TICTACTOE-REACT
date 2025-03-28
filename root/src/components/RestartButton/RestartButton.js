@@ -1,0 +1,1 @@
+Component for the restart game button.
